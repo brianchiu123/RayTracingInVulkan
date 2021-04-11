@@ -13,14 +13,14 @@
 
 - 試著加入在電腦動畫 用MAYA自己建出的模型
 
-<img align="center" src="https://github.com/brianchiu123/raytracing.git/gallery/append_obj.jpg">
+<img align="center" src="./gallery/append_obj.jpg">
 
 
 ## skybox 
 
 - 在場景中加入skybox 
 
-<img align="center" src="https://github.com/brianchiu123/raytracing.git/gallery/skybox.jpg">
+<img align="center" src="./gallery/skybox.jpg">
 
 ## 設計場景
 
