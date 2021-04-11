@@ -31,9 +31,10 @@ public:
 	static SceneAssets CubeAndSpheres(CameraInitialSate& camera);
 	static SceneAssets RayTracingInOneWeekend(CameraInitialSate& camera);
 	static SceneAssets PlanetsInOneWeekend(CameraInitialSate& camera);
-	static SceneAssets LucyInOneWeekend(CameraInitialSate& camera);
+	static SceneAssets DEMO(CameraInitialSate& camera);
 	static SceneAssets CornellBox(CameraInitialSate& camera);
 	static SceneAssets CornellBoxLucy(CameraInitialSate& camera);
+
 
 	static const std::vector<std::pair<std::string, std::function<SceneAssets (CameraInitialSate&)>>> AllScenes;
 };
